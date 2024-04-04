@@ -2,6 +2,10 @@
 
 This innovative project aimed at revolutionizing the fruit industry. By leveraging robotic vision systems, I have developed a solution that automates fruit recognition, quantity estimation, quality assessment, and disease detection processes. Utilizing advanced technologies such as Python, TensorFlow, and the Fruits 360 open-source dataset, I have achieved remarkable accuracy in my operations.
 
+## Prototype Product
+
+![Prototype Product](https://github.com/saisadhan/Fruit-Recognition-Quantity-and-Quality-Estimation-Using-Robotic-Vision-System/blob/50654619d90cc522e931d2f33a0ccfbb1e27380b/Prototype.jpg)
+
 ## Objectives
 - **Fruit Recognition:** Identifying the type and quantity of fruits.
 - **Quality Assessment:** Assessing the quality of fruits.
@@ -13,7 +17,7 @@ This innovative project aimed at revolutionizing the fruit industry. By leveragi
 - **Classification:** Employing machine learning algorithms for accurate classification.
 
 ## Block Diagram
-![Block Diagram](block_diagram.png)
+!<img src="https://github.com/saisadhan/Fruit-Recognition-Quantity-and-Quality-Estimation-Using-Robotic-Vision-System/blob/50654619d90cc522e931d2f33a0ccfbb1e27380b/Fruit%20Recognition%20Block%20diagram.png" width="600" height="300">
 
 ### Block Diagram Explanation
 - **Stage I (Input Image):** I capture input images using the Pi camera.
@@ -45,20 +49,21 @@ This innovative project aimed at revolutionizing the fruit industry. By leveragi
 - **Adaptability:** Suitable for varying illuminant conditions.
 
 ## Output Samples
-- Sample Output of Apple:
-  ![Apple Sample](apple_sample.png)
-- Sample Output of Multiple Apples:
-  ![Multiple Apples Sample](multiple_apples_sample.png)
-- Sample Output of Diseased Banana:
-  ![Diseased Banana Sample](diseased_banana_sample.png)
-- Sample Output of Multiple Bananas:
-  *Description of sample output here*
 
-## Prototype Product
-![Prototype Product](prototype_product.png)
+#### Sample Output of Apple:
+  
+<img src="https://github.com/saisadhan/Fruit-Recognition-Quantity-and-Quality-Estimation-Using-Robotic-Vision-System/blob/50654619d90cc522e931d2f33a0ccfbb1e27380b/Sample%201.JPG" width="600" height="300">
+
+#### Sample Output of Multiple Apples:
+  
+  <img src="https://github.com/saisadhan/Fruit-Recognition-Quantity-and-Quality-Estimation-Using-Robotic-Vision-System/blob/50654619d90cc522e931d2f33a0ccfbb1e27380b/sample%202.JPG" width="600" height="300">
+  
+#### Sample Output of Diseased Banana:
+
+<img src="https://github.com/saisadhan/Fruit-Recognition-Quantity-and-Quality-Estimation-Using-Robotic-Vision-System/blob/50654619d90cc522e931d2f33a0ccfbb1e27380b/sample%203.JPG" width="600" height="300">
 
 ## Conclusion
-With RoboFruit, I offer a comprehensive solution for fruit recognition, assessment, and disease detection. By closely monitoring environmental conditions and fruit quality, I ensure optimal fruit production and quality control.
+This Project offers a comprehensive solution for fruit recognition, assessment, and disease detection. By closely monitoring environmental conditions and fruit quality, I ensure optimal fruit production and quality control.
 
 ## Applications
 - Food industry for segregating healthy and diseased fruits.
@@ -69,5 +74,3 @@ With RoboFruit, I offer a comprehensive solution for fruit recognition, assessme
 - Fine-tuning trained data for increased prediction accuracy.
 - Incorporating additional features to enhance classification.
 - Developing a user-friendly mobile application interface for enhanced accessibility.
-
-Join me in the journey towards a smarter, more efficient fruit industry with RoboFruit.
